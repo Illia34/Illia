@@ -1,0 +1,134 @@
+body{
+    background-color: #FFFACD;
+}
+
+.menu{
+    background-color: #87CEFA;
+    font-size: o;
+    width: 1500px;
+    height: 1500px;
+    margin-left: auto;
+    margin-right: auto;
+        
+}
+
+
+  .text{
+    color: floralwhite;
+    top: 20%;
+    font-size: 25px;
+    text-align: center;
+  }
+
+  .mini{
+    background-color: aliceblue;
+    margin: 15px;
+    position: relative;
+    display: inline-block;
+    left: 270px;
+    padding: 40px;
+  }
+
+  #bu{
+    border: 1px solid #3498db;
+    background: none;
+    padding: 10px 20px;
+    font-size: 20px;
+    font-family: "montserrat";
+    cursor: pointer;
+    background-color: #3498db;
+    color: aliceblue;
+    position: relative;
+    left: 50px;
+  }
+
+  *{
+    font-family: 'Rubik Doodle Triangles', system-ui;
+    font-family: 'Rubik Maps', system-ui;
+  }
+ 
+  .mini{
+    left: 9px;
+  }
+
+  .nimo{
+    margin-left: 20px;
+  }
+
+  .mino{
+    background-color: aliceblue;
+    margin: 15px;
+    display: inline-block;
+    position: relative;
+    padding: 40px;
+    left: 40px;
+    top: 6px;
+  }
+
+  .mimo{
+    background-color: aliceblue;
+    margin: 15px;
+    display: inline-block;
+    position: relative;
+    padding: 40px;
+    left: 770px;
+    bottom: 453px;
+  }
+
+  .min{
+    background-color: aliceblue;
+    margin: 15px;
+    display: inline-block;
+    position: relative;
+    padding: 40px;
+    top: 6px;
+  }
+
+  #mu{
+    background-color: aliceblue;
+    margin: 15px;
+    display: inline-block;
+    position: relative;
+    padding: 40px;
+    bottom: 453px;
+    left: 800px;
+  }
+
+  #mip{
+    background-color: aliceblue;
+    margin: 15px;
+    display: inline-block;
+    position: relative;
+    padding: 40px;
+    right: 670px;
+    bottom:  2px;
+  }
+
+  #ad{
+    background-color: aliceblue;
+    margin: 15px;
+    display: inline-block;
+    position: relative;
+    padding: 40px;
+    right: 633px;
+  }
+
+  #mim{
+    background-color: aliceblue;
+    margin: 15px;
+    display: inline-block;
+    position: relative;
+    padding: 40px;
+    left: 770px;
+    bottom: 458px;
+}
+
+#ml{
+  background-color: aliceblue;
+    margin: 15px;
+    display: inline-block;
+    position: relative;
+    padding: 40px;
+    left: 800px;
+    bottom: 458px;
+}
