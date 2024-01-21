@@ -1,0 +1,254 @@
+h1{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+body{
+    background-color: #DCDCDC	;
+    height: 1200px;
+}
+
+*{
+  margin: 0;
+  padding: 0;
+}
+
+.minu-bottom{
+    position: fixed;
+    top: 0;
+    width: 2000px;
+    height: 45px;
+    background-color: #191970;
+}
+
+.minu-text{
+    color: #fff;
+}
+
+.minu-text1{
+   position: relative;
+    top: 11px;
+    left: 1650px;
+}
+
+.minu-text2{
+    position: relative;
+    left: 1500px;
+    bottom: 35px;
+}
+
+.minu-text3{
+    position: relative;
+    left: 1380px;
+    bottom: 52px;
+}
+
+.minu-text4{
+    position: relative;
+    left: 1250px;
+    bottom: 69px;
+}
+
+.square{
+    background-color: #fff;
+    margin: 15px;
+    position: relative;
+    display: inline-block;
+    left: 50px;
+    padding: 40px;
+    height: auto;
+    width: auto;
+    top: 100px;
+    text-align: center;
+    cursor: pointer;
+}
+
+img{
+    position: relative;
+    left: 25px;
+    bottom: 10px;
+}
+
+.img-square{
+    position: relative;
+    bottom: 270px;
+    left: 150px;
+}
+
+.square-Buy{
+    position: relative;
+    top: 15px;
+    border: 1px solid #3498db;
+    background: none;
+    padding: 10px 20px;
+    font-size: 20px;
+    font-family: "montserrat";
+    cursor: pointer;
+    background-color: #3498db;
+    color: aliceblue;
+    width: 50px;
+    left: 100px;
+
+}
+
+.square-Buy:hover{
+    background-color: #191970;
+}
+
+.minu-Electronics{
+    position: relative;
+    bottom: 430px;
+    color: #1E90FF;
+}
+
+
+input{
+    position: relative;
+    left: 600px;
+    border: 1px solid #FFD700;
+    display: inline-flex;
+    font-size: 30px;
+    bottom: 890px;
+    width: 800px;
+    text-align: center;
+
+}
+
+.minu-choce1{
+    font-size: 15px;
+    position: relative;
+    left: 20px;
+    color: #1E90FF;
+    padding: 10px;
+    bottom: 850px;
+    background-color: #fff;
+    width: 400px;
+    border: 1px solid #C0C0C0;
+    cursor: pointer;
+    margin: 5px;
+}
+
+.square1{
+    background-color: #fff;
+    margin: 15px;
+    position: relative;
+    display: inline-block;
+    left: 50px;
+    padding: 40px;
+    height: auto;
+    width: auto;
+    top: 600px;
+    text-align: center;
+    left:460px;
+    cursor: pointer;
+}
+
+.minu-choce2{
+    position: relative;
+    left: 850px;
+    bottom: 200px;
+    font-size: 55px;
+
+}
+
+.minu-choce1:hover{
+    color: #191970;
+}
+
+.square2{
+    position: relative;
+    left: 900px;
+    top: 125px;
+    background-color: #fff;
+    margin: 15px;
+    position: relative;
+    display: inline-block;
+    padding: 40px;
+    height: auto;
+    width: auto;
+    text-align: center;
+    cursor: pointer;
+}
+
+.minu-offer{
+    position: relative;
+    left: 820px;
+    bottom: 00px;
+}
+
+.minu-right{
+    position: relative;
+    left: 920px;
+    bottom: 703px;
+    cursor: pointer;
+}
+
+.minu-manber{
+    position: relative;
+    left: 865px;
+    bottom:740px;
+    font-size: 35px;
+    background-color: #fff;
+    width: 30px;
+    height: 35px;
+    text-align: center;
+}
+
+.minu-manber:hover{
+    background-color: #C0C0C0;
+    cursor: pointer;
+}
+
+.minu-services{
+    position: relative;
+    bottom: 800px;
+    left: 50px;
+    background-color: #fff;
+    width: 300px;
+    height: 300px;
+    border: 1px solid #C0C0C0;
+}
+
+.Support{
+    position: relative;
+    left: 20px;
+    top: 40px;
+    cursor: pointer;
+}
+
+.minu-visa{
+    position: relative;
+    top: 13px;
+    left: 80px;
+    cursor: pointer;
+}
+.minu-master{
+    position: relative;
+    top: 13px;
+    cursor: pointer;
+}
+
+.minu-card{
+    position: relative;
+    top: 140px;
+    cursor: pointer;
+}
+
+.minu-UA{
+    position: relative;
+    left: 1500px;
+    bottom: 1740px;
+    
+}
+
+.UA{
+    position: relative;
+    left: 1550px;
+    bottom: 1774px;
+    font-size: 25px;
+}
+
+.User{
+    position: relative;
+    left: 1640px;
+    bottom: 1805px;
+}
