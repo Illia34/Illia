@@ -34,7 +34,7 @@ body{
     background-color: #3498db;
     color: aliceblue;
     position: relative;
-    right: 50px;
+    right: 5px;
 
 }
 
@@ -49,19 +49,20 @@ body{
 }
 
 .img-1{
-    position: relative;
-    right: 100px;
-    bottom: 260px;
+    position: absolute;
+    bottom: 350px;
+    right: 300px;
 }
 
 .img-2{
-    position: relative;
-    right: 60px;
+    position: absolute;
+    right: 300px;
+    
 }
 
 .img-3{
-    position: relative;
-    left: 240px;
-    bottom: 260px;
+    position: absolute;
+    left: 310px;
+    bottom: 350px;
 
 }
