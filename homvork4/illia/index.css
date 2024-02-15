@@ -1,0 +1,93 @@
+
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 0;
+    margin: 0;
+}
+
+.container{
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+
+.navigation-list{
+    gap: 50px;
+    cursor: pointer;
+    color: aquamarine;
+    display: flex;
+    padding: 0;
+    margin: 0;
+    background-color: #2F2E41;
+}
+
+.head-content{
+    color: #ffff;
+}
+
+.head-content-title{
+    font-size: 70px;
+}
+
+.minu-1{
+    background-color: #2F2E41;
+    height: 970px;
+}
+
+.head-content-img-box{
+    display: flex;
+    align-items: end;
+    justify-content: end;
+}
+
+.head-content-button{
+    padding: 15px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    color: #ffff;
+    background-color: aquamarine;
+    border-radius: 40px;
+    border: none;
+    cursor: pointer;
+}
+
+.head-content-text{
+    font-size: 20px;
+}
+
+.head-content-button:hover{
+    background-color: aqua;
+}
+
+.minu-2-content{
+    justify-content: center;
+    text-align: center;
+    height: 400px;
+    margin-top:200px;
+}
+
+.minu-2-content-title{
+    font-size: 40px;
+    display: flex;   
+    justify-content: center;
+}
+
+.minu-3{
+    height:700px;
+    background-color: #2F2E41;
+    color: #ffff;
+    display: flex;
+}
+
+.minu-3{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: #2F2E41;
+    color: #ffff;
+    height: 500px;
+    width: 1500px;
+    align-items: center;
+    font-size: 20px;
+    cursor: pointer;
+    display: flex;
+}
+
