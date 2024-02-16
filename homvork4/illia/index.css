@@ -76,7 +76,6 @@ body{
     height:700px;
     background-color: #2F2E41;
     color: #ffff;
-    display: flex;
 }
 
 .minu-3{
@@ -87,7 +86,15 @@ body{
     width: 1500px;
     align-items: center;
     font-size: 20px;
-    cursor: pointer;
+}
+
+.minu-3-container{
     display: flex;
+    justify-content: space-evenly;
+}
+
+li{
+    margin-top: 200px;
+    cursor: pointer;
 }
 
